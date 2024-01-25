@@ -1,0 +1,22 @@
+{
+    "validationMessage" : "Invalid credentials",
+    "sideBar" :[
+        "Admin",
+        "PIM",
+        "Leave",
+        "Time",
+        "Recruitment",
+        "My Info",
+        "Performance",
+        "Dashboard",
+        "Directory",
+        "Claim",
+        "Buzz"
+    ],
+    "profileDropdown" : [
+        "About",
+        "Support",
+        "Change Password",
+        "Logout"
+    ]
+}

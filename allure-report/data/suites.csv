@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Nov 03 11:49:32 IST 2023","Fri Nov 03 11:49:42 IST 2023","9851","","OrangeHrm page testing","","","","Login with valid credentials",""
+"passed","Fri Nov 03 11:49:51 IST 2023","Fri Nov 03 11:49:59 IST 2023","7987","","OrangeHrm page testing","","","","Validate the tabs",""
+"passed","Thu Jan 25 12:26:55 IST 2024","Thu Jan 25 12:27:07 IST 2024","11731","","OrangeHrm page testing","","","","Login with valid credentials",""
+"passed","Thu Jan 25 12:27:07 IST 2024","Thu Jan 25 12:27:16 IST 2024","9319","","OrangeHrm page testing","","","","Login with invalid credentials",""
+"passed","Fri Nov 03 11:49:42 IST 2023","Fri Nov 03 11:49:51 IST 2023","9261","","OrangeHrm page testing","","","","Login with invalid credentials",""
+"passed","Thu Jan 25 12:27:16 IST 2024","Thu Jan 25 12:27:24 IST 2024","7906","","OrangeHrm page testing","","","","Validate the tabs",""
